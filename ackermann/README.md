@@ -1,4 +1,4 @@
-The goal of this repo is to create a terminal visualization of ackermann's decision branching.
+The goal of this repo is to create a terminal visualization of Ackermann's decision branching.
 
 # The Ackermann Function
 
@@ -19,6 +19,12 @@ A(4, 2) = 2^{65536} - 3
 \]
 
 This results in an integer with **19,729 decimal digits**[^2].
+
+## Demo
+
+Below is a demonstration of the Ackermann function's branching visualization:
+
+![Ackermann Function Visualization](demo.gif)
 
 ---
 
